@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 平定兩金川方略
-#+DATE: 2019-03-29 20:49:39.760488
+#+DATE: 2019-03-29 20:49:41.023094
 #+PROPERTY: ID KR2c0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 98
 <pb:KR2c0013_WYG_098-1a>¶
 　　欽定四庫全書¶
@@ -233,7 +233,7 @@
 帶形勢必能繞壓直下一得格魯瓦覺則於凱立¶
 葉下面山腿相距匪遥(臣)若得兵二三千人從凱¶
 <pb:KR2c0013_WYG_098-12b>¶
-立葉山腿迤𨓦斜下前後夾攻亦能接豐昇額之¶
+立葉山腿迤邐斜下前後夾攻亦能接豐昇額之¶
 兵倘不能辦即當仰遵¶
 ¶
 　　聖諭令豐昇額酌派幹員在彼牽綴而自統兵六七千¶

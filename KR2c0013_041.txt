@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 平定兩金川方略
-#+DATE: 2019-03-29 20:49:39.365136
+#+DATE: 2019-03-29 20:49:40.586807
 #+PROPERTY: ID KR2c0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 41
 <pb:KR2c0013_WYG_041-1a>¶
 　　欽定四庫全書¶
@@ -391,7 +391,7 @@
 所宜此或隨營土練等同係畨夷遇事輒向賊畨傳¶
 播尤不可不加意嚴防阿桂現在領兵諸宜慎重嗣¶
 後籌辦一應軍情總須慎宻即將佐等亦不令與聞¶
-不𦤺於疎漏¶
+不致於疎漏¶
 ¶
 ¶
 　　平定兩金川方畧卷三十三¶

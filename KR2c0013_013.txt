@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 平定兩金川方略
-#+DATE: 2019-03-29 20:49:39.202139
+#+DATE: 2019-03-29 20:49:40.342324
 #+PROPERTY: ID KR2c0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR2c0013_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -174,7 +174,7 @@
 今甫十餘年已不能謹守約束尚有肆擾鄰境之事¶
 <pb:KR2c0013_WYG_013-9b>¶
 阿爾泰等自問一督一提親臨其地較前此平定之¶
-&KR0229;聲勢輕重若何而謂畨酋竟誠心凛惕從此遂與¶
+役聲勢輕重若何而謂畨酋竟誠心凛惕從此遂與¶
 各土司共安住牧永無侵軼耶此奏姑從所請辦理¶
 但該督提等遷就茍安未能體朕原諭大旨着將此¶
 傳諭阿爾泰等知之¶

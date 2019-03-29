@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 平定兩金川方略
-#+DATE: 2019-03-29 20:49:39.594682
+#+DATE: 2019-03-29 20:49:40.843302
 #+PROPERTY: ID KR2c0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 75
 <pb:KR2c0013_WYG_075-1a>¶
 　　欽定四庫全書¶
@@ -304,7 +304,7 @@
 ¶
 　　聖懷奏入¶
 ¶
-　　上&KR0239;軍機大臣核議隨經軍機處議奏查京兵入川沿¶
+　　上勅軍機大臣核議隨經軍機處議奏查京兵入川沿¶
 途應付騎䭾前㨿畢沅奏明毋庸另行辦理該督¶
 <pb:KR2c0013_WYG_075-16a>¶
 等祗應飭令站員將陜省所偹長騾小心照料毋¶

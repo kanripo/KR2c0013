@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 平定兩金川方略
-#+DATE: 2019-03-29 20:49:39.053820
+#+DATE: 2019-03-29 20:49:40.183546
 #+PROPERTY: ID KR2c0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2c0013_WYG_000-1a>¶
 　　欽定四庫全書¶
@@ -261,7 +261,7 @@
 ¶
 　　褒䘏慰問感涕行間其番屬弁兵偶竭微勞必加¶
 ¶
-　　温奬若夫軍鋒所指罙入長驅履勝則戒以滿盈遇𡾟¶
+　　温奬若夫軍鋒所指罙入長驅履勝則戒以滿盈遇巇¶
 則戒以輕率悉皆¶
 ¶
 　　申訓再三前後五年無一不凛承¶

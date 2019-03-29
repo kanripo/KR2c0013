@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 平定兩金川方略
-#+DATE: 2019-03-29 20:49:39.955172
+#+DATE: 2019-03-29 20:49:41.223508
 #+PROPERTY: ID KR2c0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 123
 <pb:KR2c0013_WYG_123-1a>¶
 　　欽定四庫全書¶
@@ -266,7 +266,7 @@
 　　㫖飛檄停止¶
 ¶
 　　同日阿桂豐昇額色布騰巴爾珠爾海蘭察額森¶
-特又奏言自勒吉爾博山梁迤𨓦而下至將近噶¶
+特又奏言自勒吉爾博山梁迤邐而下至將近噶¶
 爾丹寺又分為兩道山腿其分支處上為安吉寨¶
 下為達佳布寨雖亦碉卡聨絡但賊因官兵一於¶
 <pb:KR2c0013_WYG_123-14b>¶
